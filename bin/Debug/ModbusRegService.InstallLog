@@ -1,0 +1,125 @@
+﻿Выполняется установка сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe.
+Выполняется фиксация сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Устанавливается служба ModbusRegService...
+Создается исходный EventLog ModbusRegService в журнале Application...
+Выполняется откат для сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Восстанавливается исходное состояние журнала событий для источника ModbusRegService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Устанавливается служба ModbusRegService...
+Создается исходный EventLog ModbusRegService в журнале Application...
+Выполняется откат для сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Восстанавливается исходное состояние журнала событий для источника ModbusRegService.
+Выполняется установка сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Устанавливается служба ModbusRegService...
+Служба ModbusRegService успешно установлена.
+Создается исходный EventLog ModbusRegService в журнале Application...
+Выполняется фиксация сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+Выполняется удаление службы ModbusRegService из системы...
+Служба ModbusRegService успешно удалена из системы.
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+Предупреждение. Источник ModbusRegService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ModbusRegService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+Предупреждение. Источник ModbusRegService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ModbusRegService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+Предупреждение. Источник ModbusRegService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ModbusRegService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.InstallLog
+   assemblypath = D:\work\ModbusRegService\ModbusRegService\bin\Debug\ModbusRegService.exe
+Выполняется удаление источника EventLog ModbusRegService.
+Предупреждение. Источник ModbusRegService не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ModbusRegService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
