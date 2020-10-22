@@ -1,27 +1,12 @@
 # ModbusRegService
-this  project is simple windows service - collecting modbus regs and store to sql base...
+Copyrleftt <2016> <//neco>
 
-this project used NModbus Lib.. licensed at MIT.. 
-NModbus is a C# 3.0 implementation of the Modbus protocol. 
-More information at the NModbus project web site http://nmodbus.com/
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-карочи я не хрена не понимаю как пользоваться важим гитхабом.. 
-да я использовал библиотеку Nmodbus но она по лицензии мит.. 
-я должен её умпомянуть, на сколько я понимаю это чертовы юридические тонкости.. 
-если кто может мне всё эту фигню пояснить -
-то свяжитесь со мной.
-neco@ngs.ru
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-теперь по порядку:
-это програмная штуковина предназначена для сбора данных с регистров модбас и сохранения в базу. 
-настройки базы и регистров есть в файле сеттингс.
-основное и, главное отличие, от аналогов - она стартует как windows-service. на русском служба. не требует логина и входа в комп. 
-но требует админских прав для установки... 
-от админа команда: ModbusRegService.exe  /install
-
-все исходники прилагаются, я надеюсь, что ничьи права я не нарушил. 
-
-
-
+install instructions: 
+ModbusRegService.exe /install
